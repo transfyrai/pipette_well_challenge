@@ -34,7 +34,7 @@ This repo provides a tarball of 100 time-synchronized, multi-angle clips of pipe
 
 ### Output: 
 
-Your code should take 2 video files as input an first-person-view (FPV) video path and a topview video path and provide a JSON-formatted output like below (this is the same format as the labels, except the key is changed from `wells_ground_truth` to `wells_prediction`). 
+Your code should take 2 video files as input -- first-person-view (FPV) video path and a topview video path -- and provide a JSON-formatted output like below (this is the same format as the labels, except the key is changed from `wells_ground_truth` to `wells_prediction`). 
 
 ```JSON
 {
@@ -49,7 +49,7 @@ Your code should take 2 video files as input an first-person-view (FPV) video pa
 }
 ```
 
-In the cases where a multi-channel pipette is used,please list all the row-column pairs in the JSON array. 
+In the cases where a multi-channel pipette is used, please list all the row-column pairs in the JSON array. 
 
 ```JSON
 {
