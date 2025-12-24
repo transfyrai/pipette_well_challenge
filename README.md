@@ -117,3 +117,5 @@ Please clone this repo, and then create a new private repo within your GitHub us
 Additionally, please record a short video 5-10 min that walks through your solution and explains your thought process. Loom or similar services are a great way to record this video! If you have any questions, please don't hesitate to reach out to the Transfyr technical team.
 
 P.S. If you’re stumbling upon this repo and you haven’t had a screening call, shoot us an email at `recruiting [at] transfyr.ai` with your solution! You are awesome and we want to get to know you!
+
+P.P.S. A certain CEO made this sample set for you with water so please forgive the lack of appropriate PPE.
