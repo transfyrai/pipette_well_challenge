@@ -116,6 +116,8 @@ Please clone this repo, and then create a new private repo within your GitHub us
 
 Additionally, please record a short video 5-10 min that walks through your solution and explains your thought process. Loom or similar services are a great way to record this video! If you have any questions, please don't hesitate to reach out to the Transfyr technical team.
 
+If we move forward with your candidacy, we will schedule a follow-up call during which we will ask you to run a holdout dataset of ~10 samples through your approach.  You can expect to receive the holdout dataset at least 10min before our follow-up call and our expectation is that the evaluation should be able to be run within 20 minutes.
+
 P.S. If you’re stumbling upon this repo and you haven’t had a screening call, shoot us an email at `recruiting [at] transfyr.ai` with your solution! You are awesome and we want to get to know you!
 
 P.P.S. A certain CEO made this sample set for you with water so please forgive the lack of appropriate PPE.
